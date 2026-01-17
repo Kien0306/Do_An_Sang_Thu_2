@@ -11,3 +11,4 @@ let stockMovementSchema = mongoose.Schema({
 module.exports = new mongoose.model('stockmovement', stockMovementSchema)
 
 
+
