@@ -10,3 +10,4 @@ const bannerSchema = new mongoose.Schema({
 
 module.exports = mongoose.model('banners', bannerSchema);
 
+
