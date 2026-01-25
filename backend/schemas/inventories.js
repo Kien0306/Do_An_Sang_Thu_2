@@ -34,3 +34,4 @@ let inventorySchema = mongoose.Schema({
     }
 }, { timestamps: true })
 module.exports = new mongoose.model('inventory', inventorySchema)
+

@@ -9,3 +9,4 @@ let stockMovementSchema = mongoose.Schema({
     createdBy: { type: mongoose.Types.ObjectId, ref: 'user' }
 }, { timestamps: true })
 module.exports = new mongoose.model('stockmovement', stockMovementSchema)
+
