@@ -238,3 +238,4 @@ async function sendPasswordResetMail({
 
 module.exports = { sendOrderSuccessMail, sendPasswordResetMail };
 
+
