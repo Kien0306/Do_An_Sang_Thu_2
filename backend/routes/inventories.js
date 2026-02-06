@@ -76,3 +76,4 @@ async function adjustStock(req, res, type) {
 router.post('/:productId/inbound', CheckLogin, CheckRole('ADMIN'), async function(req, res) { await adjustStock(req, res, 'in'); });
 router.post('/:productId/outbound', CheckLogin, CheckRole('ADMIN'), async function(req, res) { await adjustStock(req, res, 'out'); });
 module.exports = router;
+
