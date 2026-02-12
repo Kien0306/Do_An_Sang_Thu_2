@@ -64,3 +64,4 @@ const page = {
 export default function CouponFormPage() {
   return <PageRenderer page={page} />;
 }
+
