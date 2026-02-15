@@ -52,3 +52,4 @@ export default function AdminCouponsPage() {
   return <PageRenderer page={page} />;
 }
 
+
