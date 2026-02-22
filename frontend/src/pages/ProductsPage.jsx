@@ -80,3 +80,4 @@ const page = {
 export default function ProductsPage() {
   return <PageRenderer page={page} />;
 }
+

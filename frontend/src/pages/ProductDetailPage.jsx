@@ -36,3 +36,4 @@ const page = {
 export default function ProductDetailPage() {
   return <PageRenderer page={page} />;
 }
+
