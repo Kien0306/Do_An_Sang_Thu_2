@@ -57,3 +57,4 @@ const page = {
 export default function CartPage() {
   return <PageRenderer page={page} />;
 }
+

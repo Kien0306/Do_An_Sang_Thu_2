@@ -101,3 +101,4 @@ const page = {
 export default function CheckoutPage() {
   return <PageRenderer page={page} />;
 }
+
