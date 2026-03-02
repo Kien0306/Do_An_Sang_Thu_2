@@ -65,3 +65,4 @@ const page = {
 export default function AdminInventoryPage() {
   return <PageRenderer page={page} />;
 }
+
