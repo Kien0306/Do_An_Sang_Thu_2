@@ -13,3 +13,4 @@ const pointTransactionSchema = new mongoose.Schema({
 
 module.exports = mongoose.model('pointtransaction', pointTransactionSchema);
 
+
