@@ -66,3 +66,4 @@ const page = {
 export default function RewardCouponFormPage() {
   return <PageRenderer page={page} />;
 }
+

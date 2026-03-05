@@ -39,3 +39,4 @@ const page = {
 export default function RewardsPage() {
   return <PageRenderer page={page} />;
 }
+
