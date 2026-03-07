@@ -64,3 +64,4 @@ export default function RevenuePage() {
   return <PageRenderer page={page} />;
 }
 
+
