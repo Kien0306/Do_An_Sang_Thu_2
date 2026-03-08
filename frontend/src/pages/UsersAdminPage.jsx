@@ -58,3 +58,4 @@ const page = {
 export default function UsersAdminPage() {
   return <PageRenderer page={page} />;
 }
+
