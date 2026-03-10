@@ -57,3 +57,4 @@ const page = {
 export default function CategoryFormPage() {
   return <PageRenderer page={page} />;
 }
+
