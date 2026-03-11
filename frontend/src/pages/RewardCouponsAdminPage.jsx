@@ -15,3 +15,4 @@ export default function RewardCouponsAdminPage() {
   return <PageRenderer page={page} />;
 }
 
+
