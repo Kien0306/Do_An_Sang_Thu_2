@@ -48,3 +48,4 @@ module.exports = {
     return await userModel.findOne({ isDeleted: false, _id: id }).populate('role');
   }
 };
+
