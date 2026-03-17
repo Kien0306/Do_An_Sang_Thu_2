@@ -70,3 +70,4 @@ export default function AdminOrdersPage() {
   return <PageRenderer page={page} />;
 }
 
+
