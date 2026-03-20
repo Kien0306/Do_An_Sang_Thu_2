@@ -71,3 +71,4 @@ export default function PageRenderer({ page }) {
 
   return <div ref={contentRef} />;
 }
+
