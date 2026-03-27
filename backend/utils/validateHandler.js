@@ -63,3 +63,4 @@ module.exports = {
         body('images.*').isURL().withMessage("URL hinh anh phai hop le")
     ]
 }
+
