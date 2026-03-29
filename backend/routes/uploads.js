@@ -37,3 +37,4 @@ router.post('/', auth.CheckLogin, auth.CheckRole('ADMIN'), function (req, res) {
 });
 
 module.exports = router;
+
