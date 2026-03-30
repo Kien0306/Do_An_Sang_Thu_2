@@ -94,3 +94,4 @@ const page = {
 export default function AdminPage() {
   return <PageRenderer page={page} />;
 }
+
