@@ -10,3 +10,4 @@ let stockMovementSchema = mongoose.Schema({
 }, { timestamps: true })
 module.exports = new mongoose.model('stockmovement', stockMovementSchema)
 
+
