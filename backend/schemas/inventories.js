@@ -36,3 +36,4 @@ let inventorySchema = mongoose.Schema({
 module.exports = new mongoose.model('inventory', inventorySchema)
 
 
+
